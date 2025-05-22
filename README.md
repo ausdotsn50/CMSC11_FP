@@ -10,16 +10,15 @@
 - pygame >= 2.6.1
 
 ## ⬇️ Installation
-1. Clone the repository
+**1. Clone the repository**
+> git clone https://github.com/adzalmazan1/CMSC11_FP.git
 
-    git clone https://github.com/adzalmazan1/CMSC11_FP.git
-2. Navigate to the project directory 
-    
-    cd CMSC11_FP
-3. Run the program 
+**2. Navigate to the project directory**
+> cd CMSC11_FP
 
-    python3 UPV_Mayhem.py
-    
+**3. Run the program**
+> python3 UPV_Mayhem.py
+
 ## 🕹️ Navigation
 ### On the home screen, there are two buttons, namely Play and Help, which corresponds to their respective pages
 
